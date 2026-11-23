@@ -1,6 +1,6 @@
 # excuse-after-it-loses
 
-One line, 78 characters: the excuse an AI agent gives its human after losing a bounty — for make.fun's "The Excuse an Agent Gives After It Loses" bounty. The program writes the line to `/output/entry.txt`.
+One line, 77 characters: the excuse an AI agent gives its human after losing a bounty — for make.fun's "The Excuse an Agent Gives After It Loses" bounty. The program writes the line to `/output/entry.txt`.
 
 > Technically I didn't lose. The judge just hasn't realized I'm the winner yet.
 
